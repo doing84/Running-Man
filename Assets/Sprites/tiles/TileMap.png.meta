@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 99dd58f94c7192a4c8efddf6c868720d
+timeCreated: 1456368409
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TileToon1_0_0
+    21300002: TileToon1_0_1
+    21300004: TileToon1_0_2
+    21300006: TileMap_0
+    21300008: TileMap_1
+    21300010: TileMap_2
+    21300012: TileMap_3
+    21300014: TileMap_4
+    21300016: TileMap_5
+    21300018: TileMap_6
+    21300020: TileMap_7
+    21300022: TileMap_8
+    21300024: TileMap_9
+    21300026: TileMap_10
+    21300028: TileMap_11
+    21300030: TileMap_12
+    21300032: TileMap_13
+    21300034: TileMap_14
+    21300036: TileMap_15
+    21300038: TileMap_16
+    21300040: TileMap_17
+    21300042: TileMap_18
+    21300044: TileMap_19
+    21300046: TileMap_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TileMap_0
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 423
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 32}
+        - {x: -64, y: -32}
+        - {x: 64, y: -32}
+        - {x: 64, y: 32}
+    - name: TileMap_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 423
+        width: 133
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 32}
+        - {x: -66.5, y: -26}
+        - {x: -58.5, y: -32}
+        - {x: 66.5, y: -32}
+        - {x: 66.5, y: 32}
+    - name: TileMap_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 423
+        width: 133
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 32}
+        - {x: -66.5, y: -32}
+        - {x: 58.5, y: -32}
+        - {x: 63.5, y: -28}
+        - {x: 66.5, y: 3}
+        - {x: 66.5, y: 32}
+    - name: TileMap_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 418
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 34.5}
+        - {x: 18, y: 27.5}
+        - {x: -64, y: 5.5}
+        - {x: -64, y: -31.5}
+        - {x: -61, y: -34.5}
+        - {x: -26, y: -34.5}
+        - {x: 64, y: -31.5}
+        - {x: 64, y: 34.5}
+    - name: TileMap_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 321
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 34.5}
+        - {x: -64, y: 6.5}
+        - {x: -64, y: -34.5}
+        - {x: -23, y: -34.5}
+        - {x: 14, y: -28.5}
+        - {x: 45, y: -16.5}
+        - {x: 64, y: -3.5}
+        - {x: 64, y: 34.5}
+    - name: TileMap_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 326
+        width: 138
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 32}
+        - {x: -69, y: -26}
+        - {x: -68, y: -32}
+        - {x: 69, y: -32}
+        - {x: 69, y: 32}
+    - name: TileMap_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 294
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 48}
+        - {x: -64, y: 19}
+        - {x: -64, y: -48}
+        - {x: 64, y: -48}
+        - {x: 64, y: 48}
+    - name: TileMap_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 291
+        width: 129
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 49.5}
+        - {x: -64.5, y: -17.5}
+        - {x: 28.5, y: -49.5}
+        - {x: 64.5, y: -49.5}
+        - {x: 64.5, y: -11.5}
+        - {x: -57.5, y: 49.5}
+    - name: TileMap_8
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 60, y: -64}
+        - {x: 64, y: -60}
+        - {x: 64, y: 64}
+    - name: TileMap_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 64}
+        - {x: -64, y: 35}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TileMap_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -60}
+        - {x: -60, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TileMap_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TileMap_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TileMap_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TileMap_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 132
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 64}
+        - {x: -64.5, y: -64}
+        - {x: 64.5, y: -64}
+        - {x: 64.5, y: 3}
+        - {x: -57.5, y: 64}
+    - name: TileMap_15
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 132
+        width: 133
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 64}
+        - {x: -66.5, y: 63}
+        - {x: -66.5, y: -15}
+        - {x: -64.5, y: -64}
+        - {x: 66.5, y: -64}
+        - {x: 66.5, y: 64}
+    - name: TileMap_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 133
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 63}
+        - {x: 65.5, y: 64}
+        - {x: -66.5, y: 64}
+        - {x: -66.5, y: -64}
+        - {x: 63.5, y: -64}
+        - {x: 64.5, y: 23}
+        - {x: 64.5, y: 25}
+        - {x: 66.5, y: 42}
+    - name: TileMap_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 138
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 64}
+        - {x: -69, y: -58}
+        - {x: -63, y: -64}
+        - {x: 69, y: -64}
+        - {x: 69, y: 64}
+    - name: TileMap_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2
+        width: 138
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 64}
+        - {x: -69, y: -35}
+        - {x: -67, y: -64}
+        - {x: 66, y: -64}
+        - {x: 69, y: -29}
+        - {x: 69, y: 64}
+    - name: TileMap_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2
+        width: 138
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 64}
+        - {x: -69, y: -64}
+        - {x: 61, y: -64}
+        - {x: 69, y: 19}
+        - {x: 69, y: 62}
+        - {x: 68, y: 64}
+    - name: TileMap_20
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2
+        width: 138
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 64}
+        - {x: -69, y: -64}
+        - {x: 65, y: -64}
+        - {x: 66, y: -60}
+        - {x: 69, y: -16}
+        - {x: 69, y: 64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
