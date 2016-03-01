@@ -9,6 +9,7 @@ public class SimpleEnemyScripy : MonoBehaviour {
     public float speed = 10.0f;
     Vector3 _originalPosition;
 
+// member values.
     private float originalDistance;
     private bool loopDistance;
     private float saveDistance;
