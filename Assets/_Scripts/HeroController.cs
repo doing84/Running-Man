@@ -163,6 +163,12 @@ public class HeroController : MonoBehaviour {
             Destroy(other.gameObject);
             this.gameController.ScoreValue += 10;
         }
+        if (other.gameObject.CompareTag("BonusCoin"))
+        {
+            this._coinSound.Play();
+            Destroy(other.gameObject);
+            this.gameController.ScoreValue += 50;
+        }
 
         if (other.gameObject.CompareTag("Death"))
         {
@@ -171,7 +177,7 @@ public class HeroController : MonoBehaviour {
             this._deadSound.Play();
             this.gameController.LivesValue--;
 
-            Debug.Log("Death: " + this.gameController.LivesValue);
+           // Debug.Log("Death: " + this.gameController.LivesValue);
             if (this.gameController.LivesValue <= 0)
             {
                 Application.LoadLevel("Intro");
